@@ -2,9 +2,7 @@
 
 A simple, clean **RAG** (Retrieval-Augmented Generation) chatbot that lets you ask questions about the content of a research paper (or any PDF) using **xAI's Grok** model.
 
-
-![Demo screenshot]([https://github.com/user-attachments/assets/3a07ce5a-6254-4c26-ba4f-730ecd1c789f](https://github.com/user-attachments/assets/a2c99d02-a727-401a-8f30-6ac0188e7695))  
-
+<img width="876" height="622" alt="image" src="https://github.com/user-attachments/assets/7ef1612c-c905-48f2-901b-f2361d26db5e" />
 
 ## Features
 
